@@ -1,0 +1,22 @@
+{
+  "PORT": 7009,
+  "JWT_ACCESS_SECRET": "cd945b45fe0fee16ab79ba5c5e7500f321f37afb89854aa1541cbaaa30a3db9d567ae",
+  "JWT_REFRESH_SECRET": "2195ece73890e6ce9368b865523935fdac9d4f43a0b22d0862ab344e4aea27a1309b",
+  "JWT_ACCESS_TIME": "45m",
+  "JWT_REFRESH_TIME": "30d",
+  "REDIS_HOST": "127.0.0.1",
+  "REDIS_PORT": "6379",
+  "DB_CONN_STRING": "mongodb://localhost:27017/backend",
+  
+  "ROUTE_URL": "http://localhost:7009/",
+
+  "OUTER_KEY_USER": "2865A8664191366E5A99847AEB0945A46",
+  "OUTER_KEY_PAYLOAD": "F26E5E0B61180A80DAA0A6889F62CFD",
+  "OUTER_KEY_IV" : "7yWCIyryXJihlbrc",
+
+  "saltRounds": 10,
+  "TWILIO_API_KEY":"sample",
+  "TWILIO_API_SECRET":"secret0",
+  "TWILIO_ACCOUNT_SID":"ACcheck_account",
+  "TWILIO_AUTH_TOKEN":"ATcheck"
+}
